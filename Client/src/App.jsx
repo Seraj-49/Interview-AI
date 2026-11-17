@@ -11,8 +11,6 @@ import InterviewReport from './pages/InterviewReport'
 import Pricing from './pages/Pricing'
 import { ServerUrl } from './config/api'
 
-export const ServerUrl = "https://interview-ai-hyln.onrender.com"
-
 function App() {
 
   const dispatch = useDispatch()
