@@ -9,7 +9,7 @@ import {
   BsFileEarmarkText
 } from "react-icons/bs"
 import { HiSparkles } from "react-icons/hi"
-import Authmodel from "../components/Authmodel"
+import Authmodel from "../components/AuthModel"
 import { useNavigate } from "react-router-dom"
 import { useEffect, useState } from "react"
 import axios from "axios"

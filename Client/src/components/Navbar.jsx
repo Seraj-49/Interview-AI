@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom"
 import axios from "axios"
 import { ServerUrl } from "../config/api"
 import { setUserData } from "../redux/userSlice";
-import Authmodel from "./Authmodel";
+import Authmodel from "./AuthModel";
 
 function Navbar() {
     const {userData} = useSelector((state)=>state.user)
@@ -100,7 +100,7 @@ function Navbar() {
           </div>
         </motion.div>
 
-     {showAuth && <Authmodel onClose={()=>setShowAuth(false)}/>}   
+     {showAuth && <AuthModel onClose={()=>setShowAuth(false)}/>}   
 
     </div>
   )
