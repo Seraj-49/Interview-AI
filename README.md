@@ -12,6 +12,20 @@ The platform generates personalized interview questions based on a candidate's r
 
 ---
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Screenshot(70).png)
+
+### Interview Setup
+![Interview Setup](screenshots/Screenshot(72).png)
+
+### Resume Analysis
+![Resume Analysis](screenshots/Screenshot(73).png)
+
+### Interview Report
+![Interview Report](screenshots/Screenshot(75).png)
+
 ## ✨ Features
 
 - **AI-Powered Mock Interviews** – Generate personalized interview questions based on your selected role, experience, and interview mode.
