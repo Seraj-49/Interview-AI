@@ -15,16 +15,19 @@ The platform generates personalized interview questions based on a candidate's r
 ## 📸 Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Screenshot(70).png)
+![Interview AI Dashboard](screenshots/Screenshot%20(70).png)
 
 ### Interview Setup
-![Interview Setup](screenshots/Screenshot(72).png)
+![Interview Setup](screenshots/Screenshot%20(72).png)
 
 ### Resume Analysis
-![Resume Analysis](screenshots/Screenshot(73).png)
+![Resume Analysis](screenshots/Screenshot%20(73).png)
 
 ### Interview Report
-![Interview Report](screenshots/Screenshot(75).png)
+![Interview Report](screenshots/Screenshot%20(74).png)
+
+### Additional Screenshot
+![Interview AI](screenshots/Screenshot%20(75).png)
 
 ## ✨ Features
 
