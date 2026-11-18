@@ -15,20 +15,19 @@ The platform generates personalized interview questions based on a candidate's r
 ## 📸 Application Screenshots
 
 ### 1. Dashboard
-![Interview AI Dashboard](Screenshots/dashboard.png)
+![Interview AI Dashboard](screenshots/dashboard.png)
 
 ### 2. Interview Setup
-![Interview Setup](Screenshots/interview-setup.png)
+![Interview Setup](screenshots/interview-setup.png)
 
 ### 3. Resume Analysis
-![Resume Analysis](Screenshots/resume-analysis.png)
+![Resume Analysis](screenshots/resume-analysis.png)
 
 ### 4. Interview Performance Report
-![Interview Performance Report](Screenshots/interview-report-top.png)
+![Interview Performance Report](screenshots/interview-report-top.png)
 
 ### 5. Detailed Performance Feedback
-![Detailed Performance Feedback](Screenshots/interview-report-details.png)
-
+![Detailed Performance Feedback](screenshots/interview-report-details.png)
 ---
 
 🌐 **[Try Interview-AI Live](https://interview-ai-client-c0kq.onrender.com)**
